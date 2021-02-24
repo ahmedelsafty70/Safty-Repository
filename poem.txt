@@ -6,6 +6,7 @@ black
 white
 
 gamer
+another gamer
 
 My new car is lambo:
 
