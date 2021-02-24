@@ -5,6 +5,8 @@ green
 black
 white
 
+gamer
+
 My new car is lambo:
 
 blue color
